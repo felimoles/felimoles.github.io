@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Como internet destruyó la sociedad"
+date:   2025-03-06 16:43:51 -0300
+categories: jekyll update
+---
+
+Frases como "la vida de antes era mejor", "antes las cosas eran de mejor calidad".. es verdad? realmente fue asi? si y no, para simplificarlo es mejor recurrir a la [pirámide de maslow][maslow] 
+ 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pir%C3%A1mide_de_Maslow.svg/350px-Pir%C3%A1mide_de_Maslow.svg.png)
+
+La idea de esta pirámide es que solo se atienden necesidades superiores cuando las inferiores ya esten satisfechas*, probablemente en la antiguedad a lo mucho se podria aspirar al 2do escalon (probablemente es como se vive en la actualidad paises subdesarrollados), pero en paises desarrollados o tercermundistas como el mio, estemos en las ultimos 2 escalones. Creo que es una buena metrica para saber si estamos mejor o peor, y que nos espera en el futuro? espero no tengamos que darle la razón a [unabomber][unabomber] >:).
+
+Internet y la decadencia de la sociedad.
+
+Mi sueño: Todos viajamos, vacaciones eternas, vivir la vida como nomadas digitales (influencers?), ver cosas hermosas, comer comida de lujo, viajar al otro lado del mundo... jaja eso es lo que vemos en tiktok e instagram todos los dias, pero quien construye las cosas? quien cocina?, por eso es un sueño. 
+
+Tuve la fortuna de vivir la transición de la vida antes de internet y la actual, creo que el cambio ha sido bestial, volviedo a la piramide de maslow, creo que se ha golpeado mucho a necesidades básicas, amistad, alimentación, sexo, empleo, salud. Que culpa tiene internet? pues, la manipulación, las redes sociales han vuelto a las personas "estupidas", tiktok principalmente es el cancer, cuantas horas promedio pasa una persona viendo tiktok? 4 o 5 horas? brutal. Que es lo malo? el contenido, los algoritmos hacen que puedas pasar facil 1 hora pegado viendo cortos (me incluyo) y sin darte cuenta, la vida esta pasando.
+
+Lo de manipulación global siempre a sonado a conspiración, pero siempre hay detalles sutiles que dejan vista a que es una probabilidad alta, Dueño de google llamando "Especista" a [Elon Musk][especista], EE.UU no haciendo nada cuando China propagó el Covid, o Salt Altman diciendo que nadie puede frenar un [negocio rentable][saltal], que saben estos tipos que nosotros no? por eso aun vemos autos funcionando con petroleo? jaj
+
+En resumen, internet permite a politicos y periodistas aka influencer difundir información falsa, es cosa de ver noticieros y rrss cuando se acerca una elección como estan las campañas, posteando una infinidad de información que es dificil de ver si es verdad o no, dividiendo a las personas incluso fomentando el odio, yo los llamo agitadores. Redes sociales cada vez mas sexualizadas, ya va casi a la normalización de onlyfans arsmate etc. Por otro lado la pornografia tiene efectos negativos brutales, especialmente en hombres, va desde problemas de disfuncion hasta actitudes violentas con mujeres. La salud mental de las personas tambien se ve afectada, cambios de comportamientos, enfermedades mentales en general.
+
+
+Es un tema para largo, es culta de internet? no, es culpa de las personas, se les dio un "poder" que se les salio de las manos. Probablemente con la IA pase algo similar.
+Se puede revertir? probablemente si, sodoma y gomorra es un ejemplo (broma), pero al menos puedes ser un espectador, y no es protagonista de este sistema.
+
+
+[maslow]: https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow
+[unabomber]: https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm
+[especista]: https://www.businesstoday.in/technology/news/story/google-co-founder-larry-page-once-called-elon-musk-a-specist-for-not-caring-about-ai-sentiments-381838-2023-05-18
+[saltal]: https://www.lavanguardia.com/andro4all/tecnologia/sam-altman-ceo-de-openai-un-ingeniero-puede-parar-un-tren-pero-una-megacorporacion-no-puede-frenar-un-negocio-rentable#:~:text=Sam%20Altman%2C%20CEO%20de%20OpenAI,puede%20frenar%20un%20negocio%20rentable%22

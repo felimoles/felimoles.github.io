@@ -5,5 +5,5 @@
 layout: blog
 permalink: /
 ---
-Este es el home, se supone<br>
+Este es el home, se supone <br>
 <a href="/blog/">Vuelve</a>. 
